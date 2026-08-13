@@ -6,8 +6,8 @@
 ### (Ele calcula o valor de x + 5 e coloca o resultado em x. O valor de x é incrementado por 5.)
 ### O operador igual a é escrito como no JavaScript ==
 
-<a href="https://github.com/user-attachments/assets/354c63f7-b7c4-4dde-a1d3-a37ef0d6a53d" >
-  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/354c63f7-b7c4-4dde-a1d3-a37ef0d6a53d"/>
+<a href="https://github.com/user-attachments/assets/d37c08d8-ab03-4949-975a-fa60912d14a9" >
+  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/d37c08d8-ab03-4949-975a-fa60912d14a9"/>
 </a>
 
 &nbsp;
@@ -21,8 +21,8 @@
 ### let x = 2 + 3 + "5";
 ### Se você colocar um número entre aspas, o restante dos números será tratado como cadeias e concatenado.
 
-<a href="https://github.com/user-attachments/assets/910df2c2-2c6e-446b-8636-a30f7f65ff07">
-  <img width="100%" alt="aritmetica-e-operadores" src="https://github.com/user-attachments/assets/910df2c2-2c6e-446b-8636-a30f7f65ff07"/>
+<a href="https://github.com/user-attachments/assets/4c69bcd7-8d27-4db1-abc0-65f06c998172">
+  <img width="100%" alt="aritmetica-e-operadores" src="https://github.com/user-attachments/assets/4c69bcd7-8d27-4db1-abc0-65f06c998172"/>
 </a>
 
 &nbsp;
