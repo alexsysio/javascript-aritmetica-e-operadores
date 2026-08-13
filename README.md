@@ -21,8 +21,8 @@
 ### let x = 2 + 3 + "5";
 ### Se você colocar um número entre aspas, o restante dos números será tratado como cadeias e concatenado.
 
-<a href="https://github.com/user-attachments/assets/4c69bcd7-8d27-4db1-abc0-65f06c998172">
-  <img width="100%" alt="aritmetica-e-operadores" src="https://github.com/user-attachments/assets/4c69bcd7-8d27-4db1-abc0-65f06c998172"/>
+<a href="https://github.com/user-attachments/assets/433a0bb7-0a5b-4ad8-9d48-f2f78d070e90">
+  <img width="100%" alt="aritmetica-e-operadores" src="https://github.com/user-attachments/assets/433a0bb7-0a5b-4ad8-9d48-f2f78d070e90"/>
 </a>
 
 &nbsp;
